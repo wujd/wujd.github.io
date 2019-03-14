@@ -1,17 +1,18 @@
 .title-border{
     border-style: solid;
     border-width: 0px 0px 0px 5px;
-    border-color: #3399FF;
+    border-color: #A0A0A0;
     background-color: #F8F8F8;
     padding: 10px;
     font-size: 20px;
+    color: #606060;
 }
 
 .excerpt-border{
     border-style: solid;
     border-width: 0px 0px 0px 5px;
     margin-top: -12px;
-    border-color: #3399FF;
+    border-color: #A0A0A0;
     padding: 10px;
     font-size: 15px;
     color: #909090;
